@@ -203,28 +203,7 @@ export const products: Product[] = [
   },
 
   // Power Banks & Chargers
-  {
-    id: 18,
-    title: "Anker PowerCore 26800mAh",
-    price: 4999,
-    description: "Ultra-high capacity power bank with fast charging technology and multiple device support.",
-    category: "accessories",
-    brand: "Anker",
-    image: "https://m.media-amazon.com/images/I/41TUbCZho-L.jpg",
-    rating: { rate: 4.6, count: 3456 },
-    specifications: ["26800mAh Capacity", "PowerIQ Technology", "3 USB Ports", "18W Fast Charging"]
-  },
-  {
-    id: 19,
-    title: "Apple MagSafe Charger",
-    price: 4500,
-    description: "Wireless charging solution for iPhone with perfect magnetic alignment and fast 15W charging.",
-    category: "accessories",
-    brand: "Apple",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ30ERPOs5cC11xbHVaPgQ3HuRMEBCW0k5AXw&s",
-    rating: { rate: 4.4, count: 2890 },
-    specifications: ["15W Wireless Charging", "Magnetic Alignment", "iPhone Compatible", "1m Cable"]
-  },
+  
 
   // Smart Home
   {

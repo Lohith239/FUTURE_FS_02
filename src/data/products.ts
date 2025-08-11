@@ -210,7 +210,7 @@ export const products: Product[] = [
     description: "Ultra-high capacity power bank with fast charging technology and multiple device support.",
     category: "accessories",
     brand: "Anker",
-    image: "https://images.pexels.com/photos/163142/man-person-smartphone-technology-163142.jpeg?auto=compress&cs=tinysrgb&w=500",
+    image: "https://m.media-amazon.com/images/I/41TUbCZho-L.jpg",
     rating: { rate: 4.6, count: 3456 },
     specifications: ["26800mAh Capacity", "PowerIQ Technology", "3 USB Ports", "18W Fast Charging"]
   },
@@ -221,7 +221,7 @@ export const products: Product[] = [
     description: "Wireless charging solution for iPhone with perfect magnetic alignment and fast 15W charging.",
     category: "accessories",
     brand: "Apple",
-    image: "https://images.pexels.com/photos/4316/smartphone-technology-phone-mobile.jpg?auto=compress&cs=tinysrgb&w=500",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ30ERPOs5cC11xbHVaPgQ3HuRMEBCW0k5AXw&s",
     rating: { rate: 4.4, count: 2890 },
     specifications: ["15W Wireless Charging", "Magnetic Alignment", "iPhone Compatible", "1m Cable"]
   },

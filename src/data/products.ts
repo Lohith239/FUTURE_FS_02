@@ -207,7 +207,7 @@ export const products: Product[] = [
 
   // Smart Home
   {
-    id: 20,
+    id: 18,
     title: "Amazon Echo Dot (5th Gen)",
     price: 4999,
     description: "Compact smart speaker with Alexa, improved audio quality, and smart home control capabilities.",
